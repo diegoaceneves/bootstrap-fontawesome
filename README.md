@@ -5,5 +5,5 @@ Twitter Bootstrap [http://fortawesome.github.io/Font-Awesome/]
 
 Utilize os icones do Font Awesome por padrão no Bootstrap.
 
-Para customização, utilize os arquivos .less
+Para customização, utilize os arquivos .scss
 um exemplo simples da utlizaão em: [http://diegoneves.eti.br]
